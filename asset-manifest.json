@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_contact-app_with-json-server/static/css/main.385ae468.css",
-    "main.js": "/React_contact-app_with-json-server/static/js/main.acd339d7.js",
+    "main.css": "/React_contact-app_with-json-server/static/css/main.2e7f3fb7.css",
+    "main.js": "/React_contact-app_with-json-server/static/js/main.bcff196c.js",
     "static/js/787.7efd31bd.chunk.js": "/React_contact-app_with-json-server/static/js/787.7efd31bd.chunk.js",
     "static/media/fa-solid-900.ttf": "/React_contact-app_with-json-server/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/React_contact-app_with-json-server/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/React_contact-app_with-json-server/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/React_contact-app_with-json-server/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/React_contact-app_with-json-server/index.html",
-    "main.385ae468.css.map": "/React_contact-app_with-json-server/static/css/main.385ae468.css.map",
-    "main.acd339d7.js.map": "/React_contact-app_with-json-server/static/js/main.acd339d7.js.map",
+    "main.2e7f3fb7.css.map": "/React_contact-app_with-json-server/static/css/main.2e7f3fb7.css.map",
+    "main.bcff196c.js.map": "/React_contact-app_with-json-server/static/js/main.bcff196c.js.map",
     "787.7efd31bd.chunk.js.map": "/React_contact-app_with-json-server/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.385ae468.css",
-    "static/js/main.acd339d7.js"
+    "static/css/main.2e7f3fb7.css",
+    "static/js/main.bcff196c.js"
   ]
 }
