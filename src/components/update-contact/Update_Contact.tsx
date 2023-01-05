@@ -41,18 +41,9 @@ const Update_Contact = () => {
     })
 
     let { contactId } = useParams()
-    let [value, setValue] = useState('z')
-
-
-    let val = () => {
-        setValue("value has changed")
-    }
 
     useEffect(() => {
         getContact()
-
-        
-
     }, [contactId])
 
     let getContact = async () => {
